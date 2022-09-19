@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/Madhusainadh" target="blank"><img src="https://img.shields.io/twitter/follow/Madhusainadh?logo=twitter&style=for-the-badge" alt="Madhusainadh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Lmadhusainadh" target="blank"><img src="https://img.shields.io/twitter/follow/Madhusainadh?logo=twitter&style=for-the-badge" alt="Madhusainadh" /></a> </p>
 
 - 🔭 I’m currently working on **FULL-STACK WEB DEVELOPMENT**
 
