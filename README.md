@@ -36,4 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhusainadh&show_icons=true&locale=en&theme=tokyonight" alt="Madhusainadh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="Madhusainadh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Madhusainadh&theme=dark" alt="Madhusainadh" /></p>
+
