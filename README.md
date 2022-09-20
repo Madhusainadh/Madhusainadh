@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **BACKEND**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MEARN STACK**
 
 - 📫 How to reach me **lalammadhusainadh150@gmail.com**
 
