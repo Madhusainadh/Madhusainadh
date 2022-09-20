@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Lmadhusainadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Madhusainadh/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://twitter.com/Lmadhusainadh" target="blank"><img align="center" src="[https://raw.githubusercontent.com/Madhusainadh/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png)" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/madhusainadh-lalam-aba64b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Madhusainadh/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhusainadh-lalam-aba64b204" height="30" width="40" /></a>
 <a href="https://instagram.com/Madhusainadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Madhusainadh/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Madhusainadh" height="30" width="40" /></a>
 
